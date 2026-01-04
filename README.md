@@ -71,7 +71,7 @@ where μ is the drift coefficient and σ is the diffusion coefficient.
 
 Full documentation, including the API reference and an example notebook, is available at:
 
-https://geometric-brownian-motion-simulations.readthedocs.io/en/latest/pygbm
+https://geometric-brownian-motion-simulations.readthedocs.io/en/latest/
 
 The documentation is automatically built and published using **Read the Docs**.
 
